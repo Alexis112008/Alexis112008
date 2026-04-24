@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ACDF,100:003087&height=200&section=header&text=Alexis%20Nata&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descColor=74ACDF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alexis+Nata+👋;Software+Engineering+Student+🎓;Web+Developer+in+progress+💻;Argentina+fan+🇦🇷;If+it's+risky...+I'm+in+😂" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=74ACDF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alexis+Nata+👋;Software+Engineering+Student+🎓;Web+Developer+in+progress+💻;Argentina+fan+🇦🇷;If+it's+risky...+I'm+in+😂" alt="Typing SVG" />
 
 </div>
 
